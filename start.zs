@@ -1,0 +1,1 @@
+renderWindow(900, 500, "Ztrolix Script")
